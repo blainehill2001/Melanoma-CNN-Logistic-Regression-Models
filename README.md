@@ -11,6 +11,6 @@ A logistic regression was hand written, and then compared to the SciKit Learn pa
 The CNN was constructed using PyTorch and consists of two convolutional layers, followed by 4 dense layers with one layer of dropout.
 
 
-## This project was completed May 2021 as a part of UNC-CH's COMP 562 Intro to Machine Learning.
+This project was completed May 2021 as a part of UNC-CH's COMP 562 Intro to Machine Learning.
 
-## All work done by Blaine Hill, Sam Friedman, Eric Ashton, and Mattheus Bezerra
+All work done by Blaine Hill, Sam Friedman, Eric Ashton, and Mattheus Bezerra
